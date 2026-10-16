@@ -1,0 +1,22 @@
+{
+  "version": "1.3.0",
+  "updatedAt": "2026-10-16T08:00:00Z",
+  "gameplay": {
+    "spawnIntervalMs": 1200,
+    "targetSpeed": 2.8,
+    "maxActiveTargets": 6,
+    "targetBaseScore": 100,
+    "comboMultiplier": 1.25,
+    "bonusGoldenChance": 0.2
+  },
+  "visuals": {
+    "particleCount": 24,
+    "shakeIntensity": 8,
+    "trailLength": 10
+  },
+  "features": {
+    "handTrackingEnabled": true,
+    "batterySaverMode": false,
+    "offlineSyncEnabled": true
+  }
+}
